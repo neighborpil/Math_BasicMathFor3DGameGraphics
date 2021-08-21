@@ -2,6 +2,7 @@
 
 ## 데카르트 좌표계(Cartesian Coordinate System)
  - 두 실수 집합을 교차시켜서 평면을 표현하고 오른쪽과 위쪽을 +방향으로 지정
+
 ![image](https://user-images.githubusercontent.com/22423285/130336932-a237ed11-48ab-44bd-8e9b-784fdba819ef.png)
  - 위의 영역은  두 실수 집합을 곱집합으로 확장한  R × R 이다
  - 좌표(Coordinate): 곱집합의 원소는 순서쌍, 두 집합의 원소를 각각 미지수 x와 y로 두면 이는 (x,y)로 표현한 것
@@ -9,6 +10,7 @@
 ### 2차원 평면의 시각화
  - 수와 동일하게 지정한 위치에 점을 찍거나
  - 원점으로부터 화살표로 표현
+
 ![image](https://user-images.githubusercontent.com/22423285/130337005-8fc2f89c-e677-4ac7-8846-ffea25755654.png)
 
 ## 벡터(Vector)와 벡터 공간(Vector Space)
@@ -16,6 +18,7 @@
  - 집합 : 체의 성질을 가지는 수 집합의 곱집합으로부터 만들어낸 대상
  - 원소 : 스칼라의 순서쌍
  - 벡터 공간은 집합 , 벡터는 원소
+
 ![image](https://user-images.githubusercontent.com/22423285/130337128-e71b7d7d-4ec8-465b-b97d-2bc475f6c66c.png)
 
 ## 벡터의 연산(Vector Operations)
@@ -25,12 +28,14 @@
 
 #### 벡터와 벡터의 덧셈
  - (a,b)+(c,d)=(a+c,b+d)
+
 ![image](https://user-images.githubusercontent.com/22423285/130337187-808ee9a1-ceac-42e4-b3d1-93e34bbaa8f2.png)
  - 두 실수 집합이 직교한다는 것은 물과 기름처럼 서로 연관성 없이 독립적으로 동작함을 의미
 
 #### 벡터와 스칼라의 곱셈
  - k · (a,b)=(ka,kb)
  - (a,b) · k =(ak,bk)
+
 ![image](https://user-images.githubusercontent.com/22423285/130337248-80606666-7e64-4c10-921a-200c12ff8e63.png)
 
 #### ※ 용어정리
@@ -41,9 +46,11 @@
  - 수의 크기 = 원점으로부터의 거리 |x|
  - 벡터의 크기 = 원점으로부터의 최단 거리 |v|= √(x^2+y^2)   노름(Norm)이라고도 함
  - 벡터의 크기는 ||v||로도 표현, |v|로도 표현
+
 ![image](https://user-images.githubusercontent.com/22423285/130337356-4d9e001b-eaa8-41df-8469-539b0f04e65f.png)
  - 단위 벡터 : 크기가 1인 벡터
  - 벡터의 크기의 역수(Reciprocal)를 곱하면 단위 벡터가 만들어진다
+
 ![image](https://user-images.githubusercontent.com/22423285/130337439-96d8d141-66b3-4975-8189-be85e9d81273.png)
 
 ## 벡터 공간의 공리

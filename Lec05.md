@@ -110,6 +110,71 @@
 
 ![image](https://user-images.githubusercontent.com/22423285/131541502-775b83bd-3ff7-42ff-81ad-4d82fa396997.png)
 
+ -  표준기저벡터로 이루어진 벡터 공간 R²에서 공간 자체가 변할 경우(회전) 
+    모든 벡터는 표준 기저벡터의 x와 y의 곱으로 나타낼 수 있으므로, 
+    표준기저벡터를 변경시킴으로써 표현 할 수 있다
+  - 직교상태 유지
+  - 방향을 유지
+
+![image](https://user-images.githubusercontent.com/22423285/131542308-92df338d-3177-4a17-a132-e7f0dd913d9e.png)
+
+![image](https://user-images.githubusercontent.com/22423285/131542338-b5eb429b-53fd-41b2-86e3-9a28f6189c1d.png)
+
+## 삼각함수의 역함수(Inverse trigonometric functions)
+ - 삼각함수의 그래프
+
+![image](https://user-images.githubusercontent.com/22423285/131542443-2ba3f5a1-f07b-4a7d-8583-2b092b5795d3.png)
+
+ - 역함수가 존재하기 위해서는 해당함수는 전단사함수여야 한다. 
+ - 하지만 sin, cos, tan는 전단사함수가 아니다. 왜냐하면 단사가 아니기 때문이다. 
+ - 따라서 sin, cos, tan함수를 단사함수로 만들기 위해 의도적으로 정의역의 값을 제한시키자.
+ - 그렇다면 전단사함수가 되어 역함수가 존재할 수 있다.
+ - sin함수의 경우 -90˚ ~ 90˚
+ - cos함수의 경우 양의 방향으로 0˚ ~ 180˚
+ - tan함수의 경우 -90˚ < 범위 < 90˚
+![image](https://user-images.githubusercontent.com/22423285/131543120-843c8e28-6318-4c3c-808e-b10f32be01f2.png)
+
+ - 위의 범위에서 정의한 역함수를 아크사인,아크코사인,아크탄젠트 함수라고도 부른다. 
+
+![image](https://user-images.githubusercontent.com/22423285/131543345-491e69ef-4205-40bf-877d-34531bba00ba.png)
+
+### 삼각함수의 역함수
+
+![image](https://user-images.githubusercontent.com/22423285/131543425-14b1ef0a-255f-4027-871f-f513c30ee702.png)
+
+###  역함수가 다루는 각의 범위
+
+![image](https://user-images.githubusercontent.com/22423285/131543481-52c8d76b-b7ca-4ca8-9b1b-f621df845f88.png)
+
+- x축을 0으로 본다
+
+![image](https://user-images.githubusercontent.com/22423285/131543506-87299c2d-c649-4697-bd3e-b00e6c847219.png)
+
+### 아크탄젠트 함수의 활용
+ - 두 삼각형은 다른 삼각형이고 다른 각을 가지지만 탄젠트 값은 동일하다. 
+
+![image](https://user-images.githubusercontent.com/22423285/131543778-fdf9dfe7-4807-464c-b198-c4f343724abc.png)
+
+![image](https://user-images.githubusercontent.com/22423285/131543880-66525fb5-991d-4517-bdb5-f0594a63e471.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

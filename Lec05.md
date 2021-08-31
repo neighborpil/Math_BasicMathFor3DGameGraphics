@@ -157,26 +157,24 @@
 
 ![image](https://user-images.githubusercontent.com/22423285/131543880-66525fb5-991d-4517-bdb5-f0594a63e471.png)
 
+## 극 좌표계(Polar Coordinate)
+ - 모든 평면을 원으로 구성을 하고
+ - 그 값을 (r, θ)로 표시, 반지름, 각도)
 
+![image](https://user-images.githubusercontent.com/22423285/131544683-12477b93-6eae-4569-96de-f84cc84c3ad9.png)
 
+### 데카르트 좌표계에서 극 좌표계로 변환하기
 
+![image](https://user-images.githubusercontent.com/22423285/131544849-9aff27fa-6adb-496a-be48-047518163fd5.png)
 
+### 극 좌표계에서 데카르트 좌표계로 변환하기
 
+![image](https://user-images.githubusercontent.com/22423285/131544881-e771de99-664b-4f0e-9ab4-935e13e08422.png)
 
+### 극 좌표계의 활용 예시
+ - 반지름 r의 크기에 비례해서 중심에서 멀어질 수록 회전을 더 많이 주고 싶은 경우
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aabf7f9b-f737-4602-a81a-55597e3c48d5/polarcoordinate.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T165849Z&X-Amz-Expires=86400&X-Amz-Signature=3a44466b26e4576e082b7e5c3ac9b4b44e58c26c2cc0a1f92fe1f3aa5b62fda2&X-Amz-SignedHeaders=host)
 
 
 과제

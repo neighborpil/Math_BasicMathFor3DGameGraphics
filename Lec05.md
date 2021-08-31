@@ -61,11 +61,54 @@
 ![image](https://user-images.githubusercontent.com/22423285/131538353-23369418-e36b-4240-9021-4444dca6b1db.png)
 
  - ![image](https://user-images.githubusercontent.com/22423285/131538984-3ed1a72b-44d7-4680-a9a9-2546bc18008b.png)
-
+ 
 ![image](https://user-images.githubusercontent.com/22423285/131539002-4c77acdf-7799-4c2e-bc5e-4fe55b6c12e0.png)
 
+#### ※ 표준 기저벡터: 크기가 1인 벡터(1,0), (0, 1)
+
+## 2. 각의 측정
+
+### 각도법(Degree)
+ - 원을 360개로 균일하게 나누고 ˚를 사용해 각을 표현.
+ - 360도로 나눈 이유: 약수가 많이 나오는 수이기 때문에 원을 쪼개서 계산할 때 유용
+
+### 호도법(Radian)
+ -  1˚를 단위로 삼아 원에 관련된 수학을 전개했을 때 불편한 점이 많다
+ -   별도의 단위를 정하고 이를 기준으로 원에 대한 수학을 전개
+
+#### 호도법의 원리
+ 1. 반지름이 1인 반원의 왼쪽 좌표를
+
+![image](https://user-images.githubusercontent.com/22423285/131539773-12fb182f-4c0b-4312-bb65-8a7400cd9bcc.png)
+
+ 2. 원점으로 옮기고
+
+![image](https://user-images.githubusercontent.com/22423285/131539841-7ccf5872-a177-46ad-9c56-8ea2f4176651.png)
+
+ 3. 원호를 오른쪽으로 쫘악 펼치면?  ⇒ 무리수가 나온다. 이것이 바로 π
+
+![image](https://user-images.githubusercontent.com/22423285/131539925-2fe00cfc-1e42-4f7a-9e34-f54d86255a74.png)
+
+ 4. π중에서 길이가 1인 만큼만 거꾸로 되감는다.  ⇒ 이 때 나오는 각 역시 무리수가 된다.  이것이 호도법의 단위인 래디안(rad)이다. 
+ - 원호의 길이를 1만큼 되감는다
+ - 이때 나오는 각이 1rad이다
+
+![image](https://user-images.githubusercontent.com/22423285/131539995-43e1dc3b-3906-4b80-ac0f-59b3fa656fff.png)
+
+ 5. π만큼 되감으면 180˚에 해당하는 반원이 채워진다
+  + 이로부터 유도되는 호도법과 각도법의 관계는 다음과 같다.
+ 
+![image](https://user-images.githubusercontent.com/22423285/131540694-883b52ae-b107-4173-9a5d-09d6b76665e2.png)
+
+  + 자주 사용하는 각도에 대응하는 호도값
+
+![image](https://user-images.githubusercontent.com/22423285/131540744-de655c04-b1b9-4527-959c-4f9a0fcd5ae3.png)
 
 
+## 3. 벡터의 회전(Rotation of Vector)
+ - 표준 기저벡터를 사용한 실벡터공간 R²의 원소 (x,y)의 생성 방법
+
+![image](https://user-images.githubusercontent.com/22423285/131541502-775b83bd-3ff7-42ff-81ad-4d82fa396997.png)
 
 
 
@@ -84,5 +127,7 @@
  - y = sinθ
 
 3. 각도법과 호도법의 차이를 설명하고, 둘의 변환식을 정리하시오.
-
+ - Degree: 원을 360으로 나누고 ˚를 사용하여 각을 표현
+ - 반지름이 1이고, 원호의 길이가 1일 경우 그 각을 1rad라고 한다.
+ - 180˚ = π(rad)
 

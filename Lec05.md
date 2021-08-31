@@ -22,9 +22,7 @@
 
 ![image](https://user-images.githubusercontent.com/22423285/131536106-b38bfd2a-1aa0-41ff-aa22-492ee6fb7c20.png)
 
-![image](https://user-images.githubusercontent.com/22423285/131536179-3a9f6d74-77ca-4258-9d7f-51dddff78818.png)
-
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c350aab-36e9-46dd-a7a1-d9fec2fa1653/Circle_cos_sin.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T154836Z&X-Amz-Expires=86400&X-Amz-Signature=2315afbb8326262af640c7f14d0cb09ad102e07121efcdef46d67c7ca4bfdf7d&X-Amz-SignedHeaders=host
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c350aab-36e9-46dd-a7a1-d9fec2fa1653/Circle_cos_sin.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210831%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210831T154836Z&X-Amz-Expires=86400&X-Amz-Signature=2315afbb8326262af640c7f14d0cb09ad102e07121efcdef46d67c7ca4bfdf7d&X-Amz-SignedHeaders=host)
 
 
 

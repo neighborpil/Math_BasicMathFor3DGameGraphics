@@ -37,7 +37,13 @@
 
 ![image](https://user-images.githubusercontent.com/22423285/132955328-ba9a9397-fc30-44ce-9d26-fb5301d41b47.png)
 
+![image](https://user-images.githubusercontent.com/22423285/132955345-16149bce-6b7a-4578-b82b-370b4aad6991.png)
 
+![image](https://user-images.githubusercontent.com/22423285/132955347-522d9747-3b80-4792-9994-58d7541eed16.png)
+
+### 선형 사상과 선형 변환
+
+![image](https://user-images.githubusercontent.com/22423285/132955359-61c33e2b-5e04-4ade-8165-7e860a1b5c1c.png)
 
 
 
@@ -53,3 +59,4 @@
 2. y=ax+b 형태의 함수는 왜 선형성을 만족하지 못하는지 자신의 생각을 정리하시오.
  - 선형성이란 인자의 1차 배례관계로 구성된 대응관계이나, ax + b에서 b로 인하여 비례관계가 깨어져서 그렇다
 3. 2차원 공간에서 2차원 공간에 대응되는 선형 변환의 형태는 f((x,y))=(ax+by, cx+dy) 임을 정리하시오.
+ - 분배법칙에 의하여 선형성을 가지는 사상의 조건을 만족한다

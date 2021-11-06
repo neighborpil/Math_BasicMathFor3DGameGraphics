@@ -30,7 +30,7 @@
 
 이를 그림으로 나타내면 다음과 같다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b05a299-2c86-4367-aec9-63b51d7e5449/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b05a299-2c86-4367-aec9-63b51d7e5449/Untitled.png)
+![image](https://user-images.githubusercontent.com/22423285/140610007-8030265d-d554-4fb3-af9b-9bba53c5c3f5.png)
 
 위의 경우 선형변환의 결과로 2차원 평면이 1차원 직선으로 소멸되었기에 1차원에서 2차원으로 돌아가는 역행렬은 존재하지 않는다.
 
